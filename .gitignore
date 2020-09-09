@@ -1,6 +1,6 @@
 /IntByteShortLong/.idea/
 /IntByteShortLong/IntByteShortLong.iml
-.DS_Store
+*.DS_Store
 *.class
 *.iml
 *.xml
