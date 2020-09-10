@@ -22,5 +22,16 @@ public class Main {
         result+=2 ; // result = result +2
         result*=10 ; //  result = result * 10
 
+
+        int topScore = 100 ;
+        int yourScore = 90 ;
+        if (yourScore >= topScore) {
+            System.out.println("you got the higher score");
+        } else {
+            System.out.println("You didn't get the higher score ");
+        }
+
+        // && Logical AND operator
+        // || Logical OR operator
     }
 }
