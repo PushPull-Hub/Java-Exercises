@@ -25,5 +25,15 @@ public class Main {
         System.out.println("the minimum value of a byte is : " + minByte );
 
 
+        // Primitive Types challenge
+
+        byte myByteVariable = 123 ;
+        short myShortVariable = 12346 ;
+        int myIntVariable = 12345678 ;
+        int sum = myByteVariable + myShortVariable + myIntVariable ;
+        long myLongVariable = 5000 + (sum*10) ;
+
+        System.out.println("Long Variable = "+myLongVariable);
+
     }
 }
