@@ -24,5 +24,8 @@ public class Main {
         System.out.println(TeenNumberChecker.hasTeen(9, 99, 19));
         System.out.println(TeenNumberChecker.hasTeen(23, 15, 15));
         System.out.println(TeenNumberChecker.hasTeen(22, 23, 24));
+
+        UserInput.readingUserInput();
+        
     }
 }
