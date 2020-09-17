@@ -1,7 +1,5 @@
 package com.scaiconsulting.pc;
 
-import javax.management.monitor.Monitor;
-
 public class Main {
     public static void main(String[] args) {
         Dimensions dimensions = new Dimensions(20, 20, 5);

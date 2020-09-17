@@ -30,7 +30,5 @@ public class Fish extends Animal {
         moveMuscles();
         moveBackFin();
         super.move(speed);
-        
-
     }
 }
