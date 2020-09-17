@@ -1,4 +1,4 @@
-package com.scaiconsulting.room;
+package com.scaiconsulting.Composition2;
 
 public class Lamp {
 

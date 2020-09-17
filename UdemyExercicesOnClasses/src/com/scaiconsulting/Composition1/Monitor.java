@@ -1,4 +1,4 @@
-package com.scaiconsulting.pc;
+package com.scaiconsulting.Composition1;
 
 public class Monitor {
     private String model;

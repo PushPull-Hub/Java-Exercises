@@ -1,4 +1,6 @@
-package com.scaiconsulting;
+package com.scaiconsulting.Inheritance;
+
+import com.scaiconsulting.Inheritance.Animal;
 
 public class Dog extends Animal {
 

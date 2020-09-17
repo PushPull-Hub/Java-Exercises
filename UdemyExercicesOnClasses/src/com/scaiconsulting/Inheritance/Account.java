@@ -1,4 +1,4 @@
-package com.scaiconsulting;
+package com.scaiconsulting.Inheritance;
 
 public class Account {
     private String number;

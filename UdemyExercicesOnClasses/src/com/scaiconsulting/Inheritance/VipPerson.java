@@ -1,4 +1,4 @@
-package com.scaiconsulting;
+package com.scaiconsulting.Inheritance;
 
 public class VipPerson {
     private String name;

@@ -1,4 +1,8 @@
-package com.scaiconsulting;
+package com.scaiconsulting.Inheritance;
+
+import com.scaiconsulting.Inheritance.Account;
+import com.scaiconsulting.Inheritance.Animal;
+import com.scaiconsulting.Inheritance.Dog;
 
 public class Main {
 
