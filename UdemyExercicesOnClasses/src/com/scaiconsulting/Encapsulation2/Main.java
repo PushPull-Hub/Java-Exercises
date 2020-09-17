@@ -1,4 +1,4 @@
-package Encapsulation2;
+package com.scaiconsulting.Encapsulation2;
 
 public class Main {
     public static void main(String[] args) {
