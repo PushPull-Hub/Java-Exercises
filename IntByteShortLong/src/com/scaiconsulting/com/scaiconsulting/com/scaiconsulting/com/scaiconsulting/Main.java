@@ -24,7 +24,6 @@ public class Main {
         System.out.println("the maximum value of a byte is : " + maxByte);
         System.out.println("the minimum value of a byte is : " + minByte);
 
-
         // Primitive Types challenge
 
         byte myByteVariable = 123;
